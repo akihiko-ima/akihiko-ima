@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akihiko (aka akihiko-ima)
+# 👋 Hi, I'm Akihiko
 
 **Full-Stack / IoT / Machine Learning Enthusiast** from Tokyo, Japan.
 
