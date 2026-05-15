@@ -14,7 +14,7 @@ Check out some of my projects below 👇
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 
 <!-- web -->
-#### Typescript
+#### TypeScript
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Hono](https://img.shields.io/badge/Hono-ff4088?logo=hono&logoColor=white)
